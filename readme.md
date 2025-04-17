@@ -1,4 +1,4 @@
-﻿# Nutser: CS2
+﻿# XENON: CS2
 
 ## Reminder
 - this project is for educational purposes only.
